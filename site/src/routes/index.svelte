@@ -45,11 +45,11 @@
   }
 </script>
 
-<GitHubCorner href="https://github.com/janosh/awesome-svelte-kit" />
+<GitHubCorner href="https://github.com/uvacooder/awesome-svelte-kit-3" />
 
 <main>
   <img src="/svelte-kit.svg" alt="Logo" />
-  <h1>{sites.length} Awesome Examples of SvelteKit in the Wild</h1>
+  <h1>{sites.length} Collection of Examples of SvelteKit in the Wild</h1>
 
   <Filters
     {tags}
